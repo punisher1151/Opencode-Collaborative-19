@@ -17,7 +17,7 @@
             "github": "https://github.com/opencodeiiita/Technical-Writing"
         },
         {
-            "name": "Technical Writing",
+            "name": "Competitive Coding",
             "imageurl": "assets/img/projects/Competitive-Programming.jpg",
             "mentors": "Kumar Raju",
             "about": "A project aimed at encouraging the competitive coding skills of novices",
@@ -41,12 +41,12 @@
             "github": "https://github.com/opencodeiiita/sassy-css"
         },
         {
-            "name": "OpenCode",
-            "imageurl": "assets/img/projects/opencode.jpg",
-            "mentors": "Team OpenCode",
-            "about": "Building the OpenCode Website",
-            "lang": "css javascript html",
-            "github": "https://github.com/opencodeiiita/opencodeiiita.github.io"
+            "name": "Cynthesize",
+            "imageurl": "assets/img/projects/cynthesize.jpeg",
+            "mentors": "Siddhant Shrivastava, Aayush Joglekar",
+            "about": "Cythesize aims to solve the bridge between mentors and students for development, designing and other fields.",
+            "lang": "Angular, SASS",
+            "github": "https://github.com/Cynthesize-temp/frontend"
         },
         {
             "name": "Road-CS",
@@ -79,30 +79,6 @@
             "about": "A Project to encourage the envolvement of girls in opensource",
             "lang": "js css html",
             "github": "https://github.com/opencodeiiita/GirlsDoCode"
-        },
-        {
-            "name": "sociofolio-backend",
-            "imageurl": "assets/img/projects/backend.png",
-            "mentors": "Team OpenCode",
-            "about": "Backend for Sociofolio made using Node and MongoDB (MLab)",
-            "lang": "js npm json mongoDB node",
-            "github": "https://github.com/opencodeiiita/sociofolio-backend"
-        },
-        {
-            "name": "sociofolio-frontend",
-            "imageurl": "assets/img/projects/frontend.png",
-            "mentors": "Team OpenCode",
-            "about": "Frontend for Sociofolio made using React and Bootstrap.",
-            "lang": "React Redux Bootstrap",
-            "github": "https://github.com/opencodeiiita/sociofolio-frontend"
-        },
-        {
-            "name": "expensify",
-            "imageurl": "assets/img/projects/tracking.png",
-            "mentors": "Aayush Joglekar",
-            "about": "An expense tracking app ade using React.",
-            "lang": "React Redux Bootstrap",
-            "github": "https://github.com/zerefwayne/expensify"
         },
         {
             "name": "Selena-Gomez-Discography",
@@ -145,22 +121,6 @@
             "github": "https://github.com/stealthanthrax/kasper_music_player"
         },
         {
-            "name": "Rose",
-            "imageurl": "assets/img/projects/bar.png",
-            "mentors": "Kaustubh Hiware",
-            "about": "Analyse all kinds of data for a TV series",
-            "lang": "Python Scraper",
-            "github": "https://github.com/kaustubhhiware/rose"
-        },
-        {
-            "name": "facebook-archive",
-            "imageurl": "assets/img/projects/fb.png",
-            "mentors": "Kaustubh Hiware",
-            "about": "Just some fun you can have with facebook's archive data",
-            "lang": "Python data-visualisation",
-            "github": "https://github.com/kaustubhhiware/facebook-archive"
-        },
-        {
             "name": "HealthLedger",
             "imageurl": "assets/img/projects/heart.jpg",
             "mentors": "Jogendra Kumar",
@@ -175,6 +135,14 @@
             "about": "An open access journal that aims to ​ promote research among students in India from a very tender age​ . Deployed on AWS.",
             "lang": "aws flask mongoDb html css js",
             "github": "https://github.com/PaytmBuildForIndia/ResearchFLO"
+        },
+        {
+            "name": "Leave Application Portal",
+            "imageurl": "assets/img/projects/lap.png",
+            "mentors": "Prateek",
+            "about": "Leave application portal for IIIT-A to speed up leave approval process.",
+            "lang": "Html css js PHP",
+            "github": "https://github.com/GeekHaven/Leave-Application-Portal"
         }
     ]
 }
